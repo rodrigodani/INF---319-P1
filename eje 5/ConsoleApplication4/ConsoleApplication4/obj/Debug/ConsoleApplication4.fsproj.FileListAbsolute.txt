@@ -1,0 +1,10 @@
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.XML
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\FSharp.Core.dll
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\FSharp.Core.xml
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\es\FSharp.Core.resources.dll
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.fsprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

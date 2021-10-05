@@ -1,0 +1,30 @@
+> datos <- scan("Datos.txt")
+Read 100 items
+> library("modeest")
+No methods found in package ‘timeDate’ for request: ‘[<-’ when loading ‘timeSeries’
+> install.packages("modeest")
+Error in install.packages : Updating loaded packages
+> install.packages("modeest")
+Warning in install.packages :
+  package ‘modeest’ is in use and will not be installed
+> install.packages("modeest")
+Error in install.packages : Updating loaded packages
+
+Restarting R session...
+
+> install.packages("modeest")
+Installing package into ‘C:/Users/USUARIO/Documents/R/win-library/4.1’
+(as ‘lib’ is unspecified)
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.1/modeest_2.4.0.zip'
+Content type 'application/zip' length 143528 bytes (140 KB)
+downloaded 140 KB
+
+package ‘modeest’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\USUARIO\AppData\Local\Temp\RtmpuE7q1m\downloaded_packages
+> library("modeest")
+No methods found in package ‘timeDate’ for request: ‘[<-’ when loading ‘timeSeries’
+> library("modeest")
+> mfv(datos)
+[1] 5
